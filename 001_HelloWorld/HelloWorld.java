@@ -5,3 +5,11 @@ class HelloWorld{
 		System.out.println("Hello World");
 	}
 }
+
+/*
+From Java 9+ we have Jshell
+We can directly open the terminal (command prompt).
+Type in JShell.
+type the following: 
+System.out.println("Hello World");
+*/
